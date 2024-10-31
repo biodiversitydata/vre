@@ -1,31 +1,29 @@
-# Table of contents
-
----
 
 ## Table of contents
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![](images/image-dt-gd-lison.png){width=70%}
 
 :::: { .columns }
 
-::: { .column .center width="33%"}
+::: { .column .center width="25%"}
 {{< fa code size=2x >}}
 <br>
-Section 1
+Reminder of the context and the issues
 :::
 
-::: { .column .center width="33%"}
+::: { .column .center width="25%"}
 {{< fa brands github size=2x >}}
 <br>
-Section 2
+VRE : Kesaco ?
 :::
 
-::: { .column .center width="33%"}
+::: { .column .center width="25%"}
+{{< fa book size=2x >}}
+<br>
+Process
+:::
+
+::: { .column .center width="25%"}
 {{< fa book size=2x >}}
 <br>
 Resources
