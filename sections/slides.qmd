@@ -1,8 +1,8 @@
 <!-- page 1 -->
 
-# VRE : reminder of the context and the issues
+# Virtual Research Envionment : reminder of the context and the issues
 
-## VRE : reminder of the context and the issues
+## Virtual Research Envionment : reminder of the context and the issues
 
 :::: {.columns}
 
@@ -32,7 +32,7 @@
 [^3]: [Michener _et al._ (1997)](https://doi.org/10.1890/1051-0761(1997)007[0330:NMFTES]2.0.CO;2)
 
 <!-- page 2 -->
-## VRE : reminder of the context and the issues
+## Virtual Research Envionment : reminder of the context and the issues
 
 :::: {.columns}
 
@@ -101,19 +101,17 @@
 
 ## Virtual Research Envionment : reminder of the context and the issues
 
-**the GAIA Data Project**
-![](images/image-dt-gd-lison.png){width=80%}
-The Earth is a **complex system** composed of subsystems involving physical, chemical and biological environments, characterized by **interacting processes** over a broad continuum of **time and space scales**. The Earth is also the habitat of **humanity**, in increasingly strong interaction with these environments.
+![](images/image-dt-gd-lison.png){width=80% fig-align='center'}
+
+Earth is a **complex system** composed of subsystems involving physical, chemical and biological environments, characterized by **interacting processes** over a broad continuum of **time and space scales**.
 
 <!-- page 5 -->
 
 ## Virtual Research Envionment : reminder of the context and the issues
 
-**the GAIA Data Project**
-
 :::: {.columns}
 
-::: {.column .center width=50%}
+::: {.column width=50%}
 
 >Gaia Data aims to develop and implement an integrated and distributed platform of services and data for the observation, modeling and understanding of the Earth system, biodiversity and the Environment.
 
@@ -121,7 +119,7 @@ The Earth is a **complex system** composed of subsystems involving physical, che
 ![](images/image-logo-partenaires-gd.jpg){width=100%}
 :::
 
-::: {.column .center width=50%}
+::: {.column width=50%}
 ![](images/image-logo-gaiadata.png){width=70%}
 :::
 
@@ -131,9 +129,140 @@ The Earth is a **complex system** composed of subsystems involving physical, che
 
 <!-- page XXX -->
 
-# Virtual Research Envionment : kesaco ?
+## Virtual Research Envionment : reminder of the context and the issues
+
+![](images/image-infra-gaiadata.png){width=80% fig-align='center'}
+
+{{< fa circle-right >}} &nbsp;For more information: [GAIA Data](https://www.gaia-data.org/)
 
 <!-- page XXX -->
 
-## Virtual Research Envionment : kesaco ?
+# Virtual Research Environment : kesaco ?
+
+<!-- page XXX -->
+
+## Virtual Research Environment : kesaco ?
+
+**VRE, VL, SG…. ?**
+
+:::: {.columns}
+
+::: {.column width=80%}
+
+![](images/image-stateofart.png){width=80%}
+:::
+::: {.column width=20%}
+![](images/image-stateofart-ref.png){width=100%}
+:::
+::::
+
+<!-- page XXX -->
+
+## Virtual Research Environment : kesaco ?
+
+**VRE, VL, SG…. ?**
+
+> "Research done through distributed global collaboration enabled by the internet, using very large data collections, terascale computing resources and high performance visualization" (Sir John Taylor – 2001)
+
+> "A VRE comprises a set of online tools and other network resources and technologies interoperating with each other to facilitate or enhance the processes of research practitioners within and across institutional boundaries" [JISC definition](https://www.jisc.ac.uk/guides/implementing-a-virtual-research-environment-vre)
+
+> "Virtual Research Environments are innovative, web-based, community-oriented, comprehensive, flexible, and secure working environments conceived to serve the needs of modern science» [Candela *et al.* 2013](http://doi.org/10.2481/dsj.GRDI-013)
+
+- **Web** based
+- Serve the **needs of researchers communities** (VRCs)
+- Open and **flexible**
+
+<!-- page XXX -->
+
+## Virtual Research Environment : kesaco ?
+
+**VRE, VL, SG…. ?**
+
+:::: {.columns}
+
+::: {.column width=80%}
+
+![](images/image-stateofart2.png){width=80%}
+:::
+::: {.column width=20%}
+![](images/image-stateofart-ref.png){width=100%}
+:::
+::::
+
+<!-- page XXX -->
+
+## Virtual Research Envrionment : kesaco ?
+
+**VRE, VL, SG…. ?**
+
+:::: {.columns}
+
+::: {.column width=80%}
+
+![](images/image-elephant.png){width=80%}
+:::
+::: {.column width=20%}
+![](images/image-stateofart-ref.png){width=100%}
+:::
+::::
+
+<!-- page XXX -->
+
+## Virtual Research Environment : kesaco ?
+
+**VRE, VL, SG…. ?**
+
+:::: {.columns}
+
+::: {.column width=80%}
+
+![](images/image-elephant2.png){width=80%}
+:::
+::: {.column width=20%}
+![](images/image-stateofart-ref.png){width=100%}
+:::
+::::
+
+<!-- page XXX -->
+
+## Virtual Research Environment : kesaco ?
+
+**VRE, VL, SG…. ?**
+
+> **Virtual Research Environments** (VREs) are increasingly being used to support a more dynamic approach to collaborative working in systematics and taxonomy. Researchers who are not co-located are seeking **to work dynamically together at various scales from local to international**. These shared infrastructures are funded as VREs in Europe, **Virtual Laboratories** (VLs) in Australia and **Science Gateways** (SGs) in the USA and all have similar objectives.
+
+<!-- page XXX -->
+
+## Virtual Research Environment : kesaco ?
+
+**VRE, VL, SG…. ?**
+
+> **Virtual Research Environments** (VREs) are increasingly being used to support a more dynamic approach to collaborative working in systematics and taxonomy. Researchers who are not co-located are seeking **to work dynamically together at various scales from local to international**. These shared infrastructures are funded as VREs in Europe, **Virtual Laboratories** (VLs) in Australia and **Science Gateways** (SGs) in the USA and all have similar objectives.
+
+:::: {.columns}
+
+::: {.column width=33%}
+![](images/image-vre-lterlife.png){width=100%}
+{{< fa circle-right >}} &nbsp;For more information: [LTER-Life](https://lter-life.nl/en)
+:::
+
+::: {.column width=33%}
+![](images/image-bccvl.jpg){width=100%}
+{{< fa circle-right >}} &nbsp;For more information: [BCCVL](https://support.bccvl.org.au/support/home)
+:::
+
+::: {.column width=33%}
+![](images/image-sciencegateway.jpg){width=100%}
+{{< fa circle-right >}} &nbsp;For more information: [The science gateways research center](https://circ.iu.edu/)
+:::
+
+::::
+
+<!-- page XXX -->
+
+## Virtual Research Environment : kesaco ?
+
+**VRE, VL, SG…. ?**
+
+
 
