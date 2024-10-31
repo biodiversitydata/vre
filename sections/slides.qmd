@@ -31,9 +31,8 @@
 [^2]: [Page (2016)](https://riojournal.com/article/8767)
 [^3]: [Michener _et al._ (1997)](https://doi.org/10.1890/1051-0761(1997)007[0330:NMFTES]2.0.CO;2)
 
-
 <!-- page 2 -->
-# VRE : reminder of the context and the issues
+## VRE : reminder of the context and the issues
 
 :::: {.columns}
 
@@ -63,6 +62,7 @@
 [^5]: [Genkins _et al._ (2016)](https://doi.org/10.1002/ece3.9961)
 
 <!-- page 3 -->
+
 ## Virtual Research Envionment : reminder of the context and the issues
 
 <br/>
@@ -100,3 +100,40 @@
 <!-- page 4 -->
 
 ## Virtual Research Envionment : reminder of the context and the issues
+
+**the GAIA Data Project**
+![](images/image-dt-gd-lison.png){width=80%}
+The Earth is a **complex system** composed of subsystems involving physical, chemical and biological environments, characterized by **interacting processes** over a broad continuum of **time and space scales**. The Earth is also the habitat of **humanity**, in increasingly strong interaction with these environments.
+
+<!-- page 5 -->
+
+## Virtual Research Envionment : reminder of the context and the issues
+
+**the GAIA Data Project**
+
+:::: {.columns}
+
+::: {.column .center width=50%}
+
+>Gaia Data aims to develop and implement an integrated and distributed platform of services and data for the observation, modeling and understanding of the Earth system, biodiversity and the Environment.
+
+![](images/image-logo-porteurs-gd.jpg){width=100%}
+![](images/image-logo-partenaires-gd.jpg){width=100%}
+:::
+
+::: {.column .center width=50%}
+![](images/image-logo-gaiadata.png){width=70%}
+:::
+
+::::
+
+{{< fa circle-right >}} &nbsp;For more information: [GAIA Data](https://www.gaia-data.org/)
+
+<!-- page XXX -->
+
+# Virtual Research Envionment : kesaco ?
+
+<!-- page XXX -->
+
+## Virtual Research Envionment : kesaco ?
+
