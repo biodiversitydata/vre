@@ -1,8 +1,8 @@
 <!-- page 1 -->
 
-# Virtual Research Envionment : reminder of the context and the issues
+# Virtual Research Environment : reminder of the context and the issues
 
-## Virtual Research Envionment : reminder of the context and the issues
+## Virtual Research Environment : reminder of the context and the issues
 
 :::: {.columns}
 
@@ -32,7 +32,7 @@
 [^3]: [Michener _et al._ (1997)](https://doi.org/10.1890/1051-0761(1997)007[0330:NMFTES]2.0.CO;2)
 
 <!-- page 2 -->
-## Virtual Research Envionment : reminder of the context and the issues
+## Virtual Research Environment : reminder of the context and the issues
 
 :::: {.columns}
 
@@ -63,7 +63,7 @@
 
 <!-- page 3 -->
 
-## Virtual Research Envionment : reminder of the context and the issues
+## Virtual Research Environment : reminder of the context and the issues
 
 <br/>
 
@@ -99,7 +99,7 @@
 
 <!-- page 4 -->
 
-## Virtual Research Envionment : reminder of the context and the issues
+## Virtual Research Environment : reminder of the context and the issues
 
 ![](images/image-dt-gd-lison.png){width=80% fig-align='center'}
 
@@ -107,7 +107,7 @@ Earth is a **complex system** composed of subsystems involving physical, chemica
 
 <!-- page 5 -->
 
-## Virtual Research Envionment : reminder of the context and the issues
+## Virtual Research Environment : reminder of the context and the issues
 
 :::: {.columns}
 
@@ -129,7 +129,7 @@ Earth is a **complex system** composed of subsystems involving physical, chemica
 
 <!-- page XXX -->
 
-## Virtual Research Envionment : reminder of the context and the issues
+## Virtual Research Environment : reminder of the context and the issues
 
 ![](images/image-infra-gaiadata.png){width=80% fig-align='center'}
 
@@ -191,7 +191,7 @@ Earth is a **complex system** composed of subsystems involving physical, chemica
 
 <!-- page XXX -->
 
-## Virtual Research Envrionment : kesaco ?
+## Virtual Research Environment : kesaco ?
 
 **VRE, VL, SG…. ?**
 
@@ -262,7 +262,197 @@ Earth is a **complex system** composed of subsystems involving physical, chemica
 
 ## Virtual Research Environment : kesaco ?
 
-**VRE, VL, SG…. ?**
+**Key aspects**
+
+- **Virtualisation** (hiding complexity from the user);
+
+- access to useful resources such as **datasets**, **software**, **computing power**, **instruments/detectors** (the latter for control as well as data taking) and scholarly **publications** (including grey literature technical reports etc.) as well as **collaboratively with other persons and organisations**;
+
+:::: {.columns}
+
+::: {.column width=50%}
+![](images/image-vre-eudat.jpg){width=100%}
+
+{{< fa circle-right >}} &nbsp;For more information: [EMBL-EBI](https://www.youtube.com/watch?v=NEqCcgoHJ20)
+
+:::
+
+::: {.column width=50%}
+![](images/image-vre-rdf.png){width=100%}
+
+{{< fa circle-right >}} &nbsp;For more information: [Research Objects.org](https://www.researchobject.org/)
+
+:::
+
+::::
+
+<!-- page XXX -->
+
+## Virtual Research Environment : kesaco ?
+
+**Key aspects**
+
+- **Virtualisation** (hiding complexity from the user); 
+
+- access to useful resources such as **datasets**, **software**, **computing power**, **instruments/detectors** (the latter for control as well as data taking) and scholarly **publications** (including grey literature technical reports etc.) as well as **collaboratively with other persons and organisations**;
+
+- **interoperability** across resources;
+
+![](images/image-lifewatch.png){width=40%}
+{{< fa circle-right >}} &nbsp;For more information: [LifeWatch ERIC](https://www.lifewatch.eu/)
+
+<!-- page XXX -->
+
+## Virtual Research Environment : kesaco ?
+
+**Key aspects**
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+- **Virtualisation** (hiding complexity from the user); 
+
+- access to useful resources such as **datasets**, **software**, **computing power**, **instruments/detectors** (the latter for control as well as data taking) and scholarly **publications** (including grey literature technical reports etc.) as well as **collaboratively with other persons and organisations**;
+
+- **interoperability** across resources;
+
+- support for the **'researcher workflow'** from research idea (and checking the literature etc.) through observations/experiments to publication and subsequent discussion with citation and accreditation (maybe including management functions such as proposals and reporting to funders).
+
+:::
+
+::: {.column width=50%}
+
+![](images/image-lifecycle-jisc.png){width=60%}
+
+{{< fa circle-right >}} &nbsp;For more information: [Jisc](https://www.jisc.ac.uk/)
+
+:::
+
+::::
+
+<!-- page XXX -->
 
 
+## Virtual Research Environment : kesaco ?
 
+**Key aspects**
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+- **Virtualisation** (hiding complexity from the user); 
+
+- access to useful resources such as **datasets**, **software**, **computing power**, **instruments/detectors** (the latter for control as well as data taking) and scholarly **publications** (including grey literature technical reports etc.) as well as **collaboratively with other persons and organisations**;
+
+- **interoperability** across resources;
+
+- support for the **'researcher workflow'** from research idea (and checking the literature etc.) through observations/experiments to publication and subsequent discussion with citation and accreditation (maybe including management functions such as proposals and reporting to funders).
+
+- support for **workflow composition** (or even autonomic composition) of (2) and ideally deployment on **virtualized resources** (e.g. GRIDs, CLOUDs);
+
+:::
+
+::: {.column width=50%}
+
+![](images/image-vre-galaxy.png){width=100%}
+
+{{< fa circle-right >}} &nbsp;For more information: [Galaxy-Ecology](https://ecology.usegalaxy.eu)
+
+:::
+
+::::
+
+<!-- page XXX -->
+
+# Virtual Research Environment : process
+
+## Virtual Research Environment : process
+
+**Choose the scale !**
+
+![](images/image-vre-choosethescale.jpg){width=100%}
+
+<!-- page XXX -->
+
+## Virtual Research Environment : process
+
+**Then compose**
+
+![](images/image-vre-thencompose2.jpg){width=90%}
+<!-- page XXX -->
+
+## Virtual Research Environment : process
+
+**issues**
+
+![](images/image-vre-issues.jpg){width=100%}
+<!-- page XXX -->
+
+## Virtual Research Environment : process
+
+**Personal vision**
+
+![](images/image-vre-personalvision.jpg){width=100%}
+<!-- page XXX -->
+
+# Virtual Research Environment : resources
+
+<!-- page XXX -->
+
+## Virtual Research Environment : resources
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+**Collaboration oriented tools**
+
+*Built on existing platform* :
+
+- HUBzero (using Joomla)
+
+- Sakai (a first demonstrator project so old ;) )
+
+- [VRE4EIC e-VRE](https://www.vre4eic.eu/tutorials)
+
+*Specific VRE framework*
+
+- gCube
+
+- Microsoft Sharepoints VRE Toolkits
+
+- [OpenDreamkit](https://opendreamkit.org/project/software/) for mathematic
+
+- [Parthenos](http://www.parthenos-project.eu/portal/vre-2) for Humanities
+
+- [Phenomenal](http://phenomenal-h2020.eu/home/tag/vre/) on-demand VRE for metabolomics
+
+- [Apache Airavata](https://airavata.apache.org/) software framework
+
+- [Galaxy-Ecology](https://ecology.usegalaxy.eu/)
+
+:::
+
+::: {.column width=50%}
+
+**Scientific articles**
+
+- A global biodiversity observing system to unite monitoring and guide action [Gonzalez A. *et al.*, 2023](https://doi.org/10.1038/s41559-023-02171-0)
+
+- National biodiversity data infrastructures: ten essential functions for science, policy, and practice [Güntsch *et al.,* 2024](https://doi.org/10.1093/biosci/biae109)
+
+- Building essential biodiversity variables (EBVs) of species distribution and abundance at a global scale [Kissling W.D. *et al.*, 2018](https://doi.org/10.1111/brv.12359)
+
+- PERFICT: A Re-imagined foundation for predictive ecology [Mcintire E.J.B. *et al.*, 2022](https://doi.org/10.1111/ele.13994)
+
+- Cyberinfrastructure for sourcing and processing ecological data [Recknagel F. 2023. ](https://doi.org/10.1016/j.ecoinf.2023.102039)
+
+- Guidance framework to apply good practices in ecological data analysis: Lessons learned from building Galaxy-Ecology [Royaux *et al.*, 2024](https://doi.org/10.32942/X2G033)
+
+- Designing a Platform for Projecting and Protecting Global Biodiversity [Urban M.C. *et al.*, 2021](https://doi.org/10.1093/biosci/biab127)
+
+:::
+
+::::
