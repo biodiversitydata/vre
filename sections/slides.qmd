@@ -2,102 +2,7 @@
 
 # Virtual Research Environment : reminder of the context and the issues
 
-## Virtual Research Environment : reminder of the context and the issues
-
-:::: {.columns}
-
-::: {.column .center width=50%}
-![](images/image-Page2016.png){width=80%}
-:::
-
-::: {.column .center width=50%}
-![](images/image-Michener1997.jpg){width=80%}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column .center width=50%}
-**Heterogeneity (data types, origin, standards) &<br/>Diversity of "objects" to be linked together**[^2]
-:::
-
-::: {.column .center width=50%}
-**Loss of information over time**[^3]
-:::
-
-::::
-
-[^2]: [Page (2016)](https://riojournal.com/article/8767)
-[^3]: [Michener _et al._ (1997)](https://doi.org/10.1890/1051-0761(1997)007[0330:NMFTES]2.0.CO;2)
-
 <!-- page 2 -->
-## Virtual Research Environment : reminder of the context and the issues
-
-:::: {.columns}
-
-::: {.column width=50%}
-![](images/image-Powers2018.jpg){width=100%}
-:::
-
-::: {.column width=50%}
-![](images/image-JenkinsReproductibility.png){width=100%}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width=50%}
-> Computational reproducibility frequently refers to the ability to generate equivalent analytical outcomes from the same data set using the same code and software[^4].
-:::
-
-::: {.column width=50%}
-> [...] all raw data and metadata, code, programming scripts, and bespoke software necessary for fully replicating any analyses that lead to inferences made in a published study[^5].
-:::
-
-::::
-
-[^4]: [Powers & Hampton (2018)](https://doi.org/10.1002/eap.1822)
-[^5]: [Genkins _et al._ (2016)](https://doi.org/10.1002/ece3.9961)
-
-<!-- page 3 -->
-
-## Virtual Research Environment : reminder of the context and the issues
-
-<br/>
-
-:::: {.columns}
-
-::: {.column .center width=33%}
-
-**Data life cycle**
-
-<br/>
-
-![](images/image-datalifecycle.png){width=100%}
-:::
-
-::: {.column .center width=33%}
-**FAIR Principles**
-
-<br/><br/><br/>
-
-![](images/image-FAIR.png){width=100%}
-:::
-
-::: {.column .center width=33%}
-
-**Flux and stocks of data**
-
-<br/>
-
-![](images/image-Flux_dispositifs_SI.png){width=100%}
-:::
-
-::::
-
-<!-- page 4 -->
 
 ## Virtual Research Environment : reminder of the context and the issues
 
@@ -109,23 +14,39 @@ Earth is a **complex system** composed of subsystems involving physical, chemica
 
 ## Virtual Research Environment : reminder of the context and the issues
 
+- **Heterogeneity** (data types, origin, standards) & **diversity** of "objects" to be linked together[^2]
+- **Loss of information** over time[^3]
+- Toward a better **open science** and **reproducibility** [^4] [^5]
+
 :::: {.columns}
 
-::: {.column width=50%}
+::: {.column width=33%}
 
->Gaia Data aims to develop and implement an integrated and distributed platform of services and data for the observation, modeling and understanding of the Earth system, biodiversity and the Environment.
+![](images/image-DIKW_Pyramid.svg){width=70%}
+![](images/image_DataInformationknowledgeHumanities.jpg){width=100%}
 
-![](images/image-logo-porteurs-gd.jpg){width=100%}
-![](images/image-logo-partenaires-gd.jpg){width=100%}
 :::
 
-::: {.column width=50%}
-![](images/image-logo-gaiadata.png){width=70%}
+::: {.column .center width=33%}
+![](images/image_DataMetadata.png){width=100%}
+:::
+
+::: {.column .center width=33%}
+
+![](images/image-FAIR.png){width=100%}
+![](images/image-datalifecycle.png){width=100%}
+
 :::
 
 ::::
 
-{{< fa circle-right >}} &nbsp;For more information: [GAIA Data](https://www.gaia-data.org/)
+[^2]: [Page (2016)](https://riojournal.com/article/8767)
+[^3]: [Michener _et al._ (1997)](https://doi.org/10.1890/1051-0761(1997)007[0330:NMFTES]2.0.CO;2)
+[^4]: [Powers & Hampton (2018)](https://doi.org/10.1002/eap.1822)
+[^5]: [Genkins _et al._ (2016)](https://doi.org/10.1002/ece3.9961)
+
+:::
+
 
 <!-- page XXX -->
 
