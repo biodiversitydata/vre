@@ -50,14 +50,6 @@ Earth is a **complex system** composed of subsystems involving physical, chemica
 
 <!-- page XXX -->
 
-## Virtual Research Environment : reminder of the context and the issues
-
-![](images/image-infra-gaiadata.png){width=80% fig-align='center'}
-
-{{< fa circle-right >}} &nbsp;For more information: [GAIA Data](https://www.gaia-data.org/)
-
-<!-- page XXX -->
-
 # Virtual Research Environment : kesaco ?
 
 <!-- page XXX -->
