@@ -14,16 +14,17 @@
 
 :::: {.columns}
 
+::: {.column .center width=60%}
+![](images/image-earthPlanet.png){width=70% fig-align='center'}
+
+:::
+
 ::: {.column width=40%}
 <br/>
 
 - Earth is a **complex system** composed of subsystems involving physical, chemical and biological environments, characterized by **interacting processes** over a broad continuum of **time and space scales**.
 - Necessity to have **technical frameworks & workflows to get, manipulate, process, and analyse FAIR research objects** (data, metadata and code sources, ...) from different sources (providers, format, standards)
 
-:::
-
-::: {.column .center width=60%}
-![](images/image-earthPlanet.png){width=70% fig-align='center'}
 :::
 
 ::::
@@ -324,11 +325,7 @@
 
 - [VRE4EIC e-VRE](https://www.vre4eic.eu/tutorials)
 
-*Specific VRE framework*
-
-- gCube
-
-- Microsoft Sharepoints VRE Toolkits
+*Examples of specific VRE framework*
 
 - [OpenDreamkit](https://opendreamkit.org/project/software/) for mathematic
 
