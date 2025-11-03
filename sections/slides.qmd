@@ -196,6 +196,8 @@
 - **interoperability** across resources;
 
 ![](images/image-lifewatch.png){width=40%}
+![](images/image-LifeWatchLogo.jpg){width=40%}
+
 {{< fa circle-right >}} &nbsp;For more information: [LifeWatch ERIC](https://www.lifewatch.eu/)
 
 <!-- page XXX -->
