@@ -340,6 +340,8 @@
 
 - [Galaxy-Ecology](https://ecology.usegalaxy.eu/)
 
+- [BON in a BOX (GEO BON)](https://boninabox.geobon.org/)
+
 :::
 
 ::: {.column width=50%}
