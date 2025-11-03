@@ -6,46 +6,20 @@
 
 ## Virtual Research Environment : reminder of the context and the issues
 
-![](images/image-EarthPlanet.png){width=80% fig-align='center'}
-
-Earth is a **complex system** composed of subsystems involving physical, chemical and biological environments, characterized by **interacting processes** over a broad continuum of **time and space scales**.
-
-<!-- page 5 -->
-
-## Virtual Research Environment : reminder of the context and the issues
-
-- **Heterogeneity** (data types, origin, standards) & **diversity** of "objects" to be linked together[^2]
-- **Loss of information** over time[^3]
-- Toward a better **open science** and **reproducibility** [^4] [^5]
-
 :::: {.columns}
 
-::: {.column width=33%}
+::: {.column width=30%}
+<br/>
 
-![](images/image-DIKW_Pyramid.svg){width=70%}
-![](images/image_DataInformationknowledgeHumanities.jpg){width=100%}
-
+- Earth is a **complex system** composed of subsystems involving physical, chemical and biological environments, characterized by **interacting processes** over a broad continuum of **time and space scales**.
+- Necessity to have **technical frameworks to get, manipulate process, and analyse FAIR research objects** (data, metadata and code sources, ...) from different sources (provinders, format, standards)
 :::
 
-::: {.column .center width=33%}
-![](images/image_DataMetadata.png){width=100%}
-:::
-
-::: {.column .center width=33%}
-
-![](images/image-FAIR.png){width=100%}
-![](images/image-datalifecycle.png){width=100%}
-
+::: {.column .center width=70%}
+![](images/image-EarthPlanet.png){width=50% fig-align='center'}
 :::
 
 ::::
-
-[^2]: [Page (2016)](https://riojournal.com/article/8767)
-[^3]: [Michener _et al._ (1997)](https://doi.org/10.1890/1051-0761(1997)007[0330:NMFTES]2.0.CO;2)
-[^4]: [Powers & Hampton (2018)](https://doi.org/10.1002/eap.1822)
-[^5]: [Genkins _et al._ (2016)](https://doi.org/10.1002/ece3.9961)
-
-:::
 
 <!-- page XXX -->
 
