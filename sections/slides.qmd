@@ -1,8 +1,14 @@
-<!-- page 1 -->
+<!-- page X -->
+
+# data life cycle
+
+
+
+<!-- page X -->
 
 # Virtual Research Environment : reminder of the context and the issues
 
-<!-- page 2 -->
+<!-- page X -->
 
 ## Virtual Research Environment : reminder of the context and the issues
 

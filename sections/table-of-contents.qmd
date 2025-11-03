@@ -1,7 +1,7 @@
 
 ## Table of contents
 
-![](images/image-PNDB.png){width=70% fig-align='center'}
+![](images/image-PNDB.png){width=100% fig-align='center'}
 
 :::: { .columns }
 
