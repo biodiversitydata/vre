@@ -14,7 +14,7 @@
 
 :::: {.columns}
 
-::: {.column width=50%}
+::: {.column width=40%}
 <br/>
 
 - Earth is a **complex system** composed of subsystems involving physical, chemical and biological environments, characterized by **interacting processes** over a broad continuum of **time and space scales**.
@@ -22,7 +22,7 @@
 
 :::
 
-::: {.column .center width=50%}
+::: {.column .center width=60%}
 ![](images/image-earthPlanet.png){width=70% fig-align='center'}
 :::
 
@@ -189,14 +189,22 @@
 
 **Key aspects**
 
-- **Virtualisation** (hiding complexity from the user); 
+:::: {.columns}
+
+::: {.column width=40%}
+
+- **Virtualization** (hiding complexity from the user); 
 
 - access to useful resources such as **datasets**, **software**, **computing power**, **instruments/detectors** (the latter for control as well as data taking) and scholarly **publications** (including grey literature technical reports etc.) as well as **collaboratively with other persons and organisations**;
 
 - **interoperability** across resources;
 
-![](images/image-lifewatch.png){width=40%}
-![](images/image-LifeWatchLogo.jpg){width=40%}
+:::
+::: {.column width=60%}
+
+![](images/image-lifewatch.png){width=60%}
+![](images/image-LifeWatchLogo.jpg){width=20%}
+:::
 
 {{< fa circle-right >}} &nbsp;For more information: [LifeWatch ERIC](https://www.lifewatch.eu/)
 
