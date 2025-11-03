@@ -24,7 +24,7 @@
 
 <br/>
 
-{{< fa hand-point-right >}} &nbsp;We talk about **Virutal Research Environment - VRE**
+{{< fa hand-point-right >}} &nbsp;We talk about **Virtual Research Environment - VRE**
 
 <!-- page XXX -->
 
