@@ -6,7 +6,7 @@
 
 ## Virtual Research Environment : reminder of the context and the issues
 
-![](images/image-dt-gd-lison.png){width=80% fig-align='center'}
+![](images/image-EarthPlanet.png){width=80% fig-align='center'}
 
 Earth is a **complex system** composed of subsystems involving physical, chemical and biological environments, characterized by **interacting processes** over a broad continuum of **time and space scales**.
 
@@ -46,7 +46,6 @@ Earth is a **complex system** composed of subsystems involving physical, chemica
 [^5]: [Genkins _et al._ (2016)](https://doi.org/10.1002/ece3.9961)
 
 :::
-
 
 <!-- page XXX -->
 

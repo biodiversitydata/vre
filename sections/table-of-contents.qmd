@@ -1,7 +1,7 @@
 
 ## Table of contents
 
-![](images/image-dt-gd-lison.png){width=70% fig-align='center'}
+![](images/image-PNDB.png){width=70% fig-align='center'}
 
 :::: { .columns }
 
