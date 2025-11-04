@@ -364,3 +364,52 @@
 :::
 
 ::::
+
+# BONUS
+
+<!-- page XXX -->
+
+## BONUS : GAIA Data project use case
+
+:::: {.columns}
+
+::: {.column width=40%}
+<br/>
+
+- Earth is a **complex system** composed of subsystems involving physical, chemical and biological environments, characterized by **interacting processes** over a broad continuum of **time and space scales**.
+- Necessity to have **technical frameworks & workflows to get, manipulate, process, and analyse FAIR research objects** (data, metadata and code sources, ...) from different sources (providers, format, standards)
+
+
+:::
+
+::: {.column .center width=60%}
+![](images/image-gd-macaron.png){width=20% fig-align='center'}
+![](images/huitsites-gaiadata-1024x642.png){width=20% fig-align='center'}
+
+:::
+
+::::
+
+<br/>
+
+{{< fa hand-point-right >}} &nbsp;The **[GAIA Data project](https://www.gaia-data.org/)** aims to develop and implement an **integrated and distributed platform of services and data** for the observation, modeling and understanding of the Earth system, biodiversity and the environment.
+
+:::
+::::
+
+<!-- page XXX -->
+
+## BONUS : GAIA Data project use case
+
+![](images/WP-GAIADATA-2025-1024x567.png){width=100% fig-align='center'}
+<!-- page XXX -->
+
+## BONUS : GAIA Data project use case
+
+![](images/VRE_CESAB_1.png){width=100% fig-align='center'}
+<!-- page XXX -->
+
+## BONUS : GAIA Data project use case
+
+![](images/VRE_CESAB_2.png){width=100% fig-align='center'}
+
