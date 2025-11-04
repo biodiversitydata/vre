@@ -274,7 +274,7 @@
 
 **Example of the Galaxy Project**
 
-![](images/Galaxy-Ecology_PNDB.png){width=70%}
+![](images/Galaxy-Ecology_PNDB.png){width=60%}
 
 {{< fa circle-right >}} &nbsp;For more information: [Galaxy-Ecology](https://ecology.usegalaxy.eu) & [Galaxy Earth system](https://earth-system.usegalaxy.eu/)
 
@@ -383,8 +383,8 @@
 :::
 
 ::: {.column .center width=60%}
-![](images/image-gd-macaron.png){width=20% fig-align='center'}
-![](images/huitsites-gaiadata-1024x642.png){width=20% fig-align='center'}
+![](images/image-gd-macaron.png){width=30% fig-align='center'}
+![](images/huitsites-gaiadata-1024x642.png){width=70% fig-align='center'}
 
 :::
 
@@ -394,8 +394,6 @@
 
 {{< fa hand-point-right >}} &nbsp;The **[GAIA Data project](https://www.gaia-data.org/)** aims to develop and implement an **integrated and distributed platform of services and data** for the observation, modeling and understanding of the Earth system, biodiversity and the environment.
 
-:::
-::::
 
 <!-- page XXX -->
 
