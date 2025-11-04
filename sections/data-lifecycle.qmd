@@ -5,4 +5,4 @@
 
 ## Data lifecycle
 
-![](images/data-lifecycle-2_3_5_6.png){width=100% fig-align='center'}
+![](images/data-lifecycle-2_3_5_6.png){width=50% fig-align='center'}
