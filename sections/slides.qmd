@@ -380,12 +380,12 @@
 :::: {.columns}
 
 ::: {.column width=50%}
-![](images/logoGAIAData.png){width=70% fig-align='center'}
+![](images/logoGAIAData.png){width=50% fig-align='center'}
 :::
 
 ::: {.column .center width=50%}
 
-![](images/huitsites-gaiadata-1024x642.png){width=70% fig-align='center'}
+![](images/huitsites-gaiadata-1024x642.png){width=80% fig-align='center'}
 :::
 
 ::::
