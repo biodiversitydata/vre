@@ -274,7 +274,7 @@
 
 **Example of the Galaxy Project**
 
-![](images/Galaxy-Ecology_PNDB.png){width=60%}
+![](images/Galaxy-Ecology_PNDB.png){width=60% fig-align='center'}
 
 {{< fa circle-right >}} &nbsp;For more information: [Galaxy-Ecology](https://ecology.usegalaxy.eu) & [Galaxy Earth system](https://earth-system.usegalaxy.eu/)
 
@@ -373,7 +373,7 @@
 
 :::: {.columns}
 
-::: {.column width=40%}
+::: {.column width=30%}
 <br/>
 
 - Earth is a **complex system** composed of subsystems involving physical, chemical and biological environments, characterized by **interacting processes** over a broad continuum of **time and space scales**.
@@ -382,9 +382,9 @@
 
 :::
 
-::: {.column .center width=60%}
-![](images/image-gd-macaron.png){width=30% fig-align='center'}
-![](images/huitsites-gaiadata-1024x642.png){width=70% fig-align='center'}
+::: {.column .center width=70%}
+![](images/logoGAIAData.png){width=20% fig-align='center'}
+![](images/huitsites-gaiadata-1024x642.png){width=50% fig-align='center'}
 
 :::
 
