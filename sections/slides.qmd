@@ -316,10 +316,6 @@
 
 *Built on existing platform* :
 
-- HUBzero (using Joomla)
-
-- Sakai (a first demonstrator project so old ;) )
-
 - [VRE4EIC e-VRE](https://www.vre4eic.eu/tutorials)
 
 *Examples of specific VRE framework*
