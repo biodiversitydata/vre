@@ -274,7 +274,7 @@
 
 **Example of the Galaxy Project**
 
-![](images/Galaxy-Ecology_PNDB.png){width=100%}
+![](images/Galaxy-Ecology_PNDB.png){width=70%}
 
 {{< fa circle-right >}} &nbsp;For more information: [Galaxy-Ecology](https://ecology.usegalaxy.eu) & [Galaxy Earth system](https://earth-system.usegalaxy.eu/)
 
