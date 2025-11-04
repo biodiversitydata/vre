@@ -9,6 +9,7 @@
 
 :::: {.columns}
 
+<<<<<<< HEAD
 ::: {.column .center width=60%}
 ![](images/image-earthPlanet.png){width=70% fig-align='center'}
 
@@ -20,13 +21,29 @@
 - Earth is a **complex system** composed of subsystems involving physical, chemical and biological environments, characterized by **interacting processes** over a broad continuum of **time and space scales**.
 - Necessity to have **technical frameworks & workflows to get, manipulate, process, and analyse FAIR research objects** (data, metadata and code sources, ...) from different sources (providers, format, standards)
 
+=======
+::: {.column width=50%}
+<br/>
+
+- Earth is a **complex system** composed of subsystems involving physical, chemical and biological environments, characterized by **interacting processes** over a broad continuum of **time and space scales**.
+- Necessity to have **technical frameworks to get, manipulate process, and analyse FAIR research objects** (data, metadata and code sources, ...) from different sources (provinders, format, standards)
+- 
+:::
+
+::: {.column .center width=50%}
+![](images/image-earthPlanet.png){width=70% fig-align='center'}
+>>>>>>> 08e2df68445c6556cdd3497904455121cd41340c
 :::
 
 ::::
 
 <br/>
 
+<<<<<<< HEAD
 {{< fa hand-point-right >}} &nbsp;We talk about **Virtual Research Environment - VRE**
+=======
+{{< fa hand-point-right >}} &nbsp;We talk about **Virutal Research Environment - VRE**
+>>>>>>> 08e2df68445c6556cdd3497904455121cd41340c
 
 <!-- page XXX -->
 
