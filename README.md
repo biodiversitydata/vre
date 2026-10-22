@@ -80,7 +80,7 @@ To understand the file organisation of this repository, please read this [Wiki](
 
 ## Citation
 
-Le Bras Y & Norvez O (2024) _Virtual Research Environment_. Online presentation available at <https://github.com/biodiversitydata/vre/>.
+Le Bras Y & Norvez O (2026) _Virtual Research Environment_. Online presentation available at <https://github.com/biodiversitydata/vre/>.
 
 
 ## Contributing

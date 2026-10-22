@@ -1,31 +1,37 @@
 
 ## Table of contents
 
-![](images/image-PNDB.png){width=100% fig-align='center'}
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 :::: { .columns }
 
 ::: { .column .center width="25%"}
-{{< fa code size=2x >}}
-<br>
-Reminder of the context and the issues
+{{< fa right-to-bracket size=2x >}}
+<br><br>
+Context and issues
 :::
 
 ::: { .column .center width="25%"}
-{{< fa brands github size=2x >}}
-<br>
-VRE : Kesaco ?
+{{< fa circle-question size=2x >}}
+<br><br>
+Definition
 :::
 
 ::: { .column .center width="25%"}
-{{< fa book size=2x >}}
-<br>
+{{< fa arrows-spin size=2x >}}
+<br><br>
 Process
 :::
 
 ::: { .column .center width="25%"}
 {{< fa book size=2x >}}
-<br>
+<br><br>
 Resources
 :::
 

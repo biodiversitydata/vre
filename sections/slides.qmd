@@ -1,11 +1,11 @@
 
 <!-- page X -->
 
-# Virtual Research Environment : reminder of the context and the issues
+# Context and issues
 
 <!-- page X -->
 
-## Virtual Research Environment : reminder of the context and the issues
+## Context and issues
 
 :::: {.columns}
 
@@ -30,11 +30,11 @@
 
 <!-- page XXX -->
 
-# Virtual Research Environment : kesaco ?
+# Definition
 
 <!-- page XXX -->
 
-## Virtual Research Environment : kesaco ?
+## Virtual Research Environment
 
 **VRE, VL, SG…. ?**
 
@@ -51,7 +51,7 @@
 
 <!-- page XXX -->
 
-## Virtual Research Environment : kesaco ?
+## Virtual Research Environment
 
 **VRE, VL, SG…. ?**
 
@@ -67,7 +67,7 @@
 
 <!-- page XXX -->
 
-## Virtual Research Environment : kesaco ?
+## Virtual Research Environment
 
 **VRE, VL, SG…. ?**
 
@@ -84,7 +84,7 @@
 
 <!-- page XXX -->
 
-## Virtual Research Environment : kesaco ?
+## Virtual Research Environment
 
 **VRE, VL, SG…. ?**
 
@@ -101,7 +101,7 @@
 
 <!-- page XXX -->
 
-## Virtual Research Environment : kesaco ?
+## Virtual Research Environment
 
 **VRE, VL, SG…. ?**
 
@@ -118,7 +118,7 @@
 
 <!-- page XXX -->
 
-## Virtual Research Environment : kesaco ?
+## Virtual Research Environment
 
 **VRE, VL, SG…. ?**
 
@@ -126,7 +126,7 @@
 
 <!-- page XXX -->
 
-## Virtual Research Environment : kesaco ?
+## Virtual Research Environment
 
 **VRE, VL, SG…. ?**
 
@@ -153,13 +153,13 @@
 
 <!-- page XXX -->
 
-## Virtual Research Environment : kesaco ?
+## Virtual Research Environment
 
 **Key aspects**
 
-- **Virtualisation** (hiding complexity from the user);
+- **Virtualization** (hiding complexity from the user)
 
-- access to useful resources such as **datasets**, **software**, **computing power**, **instruments/detectors** (the latter for control as well as data taking) and scholarly **publications** (including grey literature technical reports etc.) as well as **collaboratively with other persons and organisations**;
+- Access to useful resources such as **datasets**, **software**, **computing power**, **instruments/detectors** (the latter for control as well as data taking) and scholarly **publications** (including grey literature technical reports etc.) as well as **collaboratively with other persons and organisations**
 
 :::: {.columns}
 
@@ -180,8 +180,7 @@
 ::::
 
 <!-- page XXX -->
-
-## Virtual Research Environment : kesaco ?
+## Virtual Research Environment
 
 **Key aspects**
 
@@ -189,11 +188,11 @@
 
 ::: {.column width=40%}
 
-- **Virtualization** (hiding complexity from the user); 
+- **Virtualization** (hiding complexity from the user) 
 
-- access to useful resources such as **datasets**, **software**, **computing power**, **instruments/detectors** (the latter for control as well as data taking) and scholarly **publications** (including grey literature technical reports etc.) as well as **collaboratively with other persons and organisations**;
+- Access to useful resources such as **datasets**, **software**, **computing power**, **instruments/detectors** (the latter for control as well as data taking) and scholarly **publications** (including grey literature technical reports etc.) as well as **collaboratively with other persons and organisations**
 
-- **interoperability** across resources;
+- **Interoperability** across resources
 
 :::
 ::: {.column width=60%}
@@ -208,7 +207,7 @@
 
 <!-- page XXX -->
 
-## Virtual Research Environment : kesaco ?
+## Virtual Research Environment
 
 **Key aspects**
 
@@ -216,13 +215,13 @@
 
 ::: {.column width=50%}
 
-- **Virtualisation** (hiding complexity from the user); 
+- **Virtualization** (hiding complexity from the user)
 
-- access to useful resources such as **datasets**, **software**, **computing power**, **instruments/detectors** (the latter for control as well as data taking) and scholarly **publications** (including grey literature technical reports etc.) as well as **collaboratively with other persons and organisations**;
+- Access to useful resources such as **datasets**, **software**, **computing power**, **instruments/detectors** (the latter for control as well as data taking) and scholarly **publications** (including grey literature technical reports etc.) as well as **collaboratively with other persons and organisations**
 
-- **interoperability** across resources;
+- **Interoperability** across resources
 
-- support for the **'researcher workflow'** from research idea (and checking the literature etc.) through observations/experiments to publication and subsequent discussion with citation and accreditation (maybe including management functions such as proposals and reporting to funders).
+- Support for the **'researcher workflow'** from research idea (and checking the literature etc.) through observations/experiments to publication and subsequent discussion with citation and accreditation (maybe including management functions such as proposals and reporting to funders)
 
 :::
 
@@ -239,7 +238,7 @@
 <!-- page XXX -->
 
 
-## Virtual Research Environment : kesaco ?
+## Virtual Research Environment
 
 **Key aspects**
 
@@ -247,15 +246,15 @@
 
 ::: {.column width=50%}
 
-- **Virtualization** (hiding complexity from the user); 
+- **Virtualization** (hiding complexity from the user)
 
-- access to useful resources such as **datasets**, **software**, **computing power**, **instruments/detectors** (the latter for control as well as data taking) and scholarly **publications** (including grey literature technical reports etc.) as well as **collaboratively with other persons and organisations**;
+- Access to useful resources such as **datasets**, **software**, **computing power**, **instruments/detectors** (the latter for control as well as data taking) and scholarly **publications** (including grey literature technical reports etc.) as well as **collaboratively with other persons and organisations**
 
-- **interoperability** across resources;
+- **Interoperability** across resources
 
-- support for the **'researcher workflow'** from research idea (and checking the literature etc.) through observations/experiments to publication and subsequent discussion with citation and accreditation (maybe including management functions such as proposals and reporting to funders).
+- Support for the **'researcher workflow'** from research idea (and checking the literature etc.) through observations/experiments to publication and subsequent discussion with citation and accreditation (maybe including management functions such as proposals and reporting to funders)
 
-- support for **workflow composition** (or even autonomic composition) of (2) and ideally deployment on **virtualized resources** (e.g. GRIDs, CLOUDs);
+- Support for **workflow composition** (or even autonomic composition) of (2) and ideally deployment on **virtualized resources** (e.g. GRIDs, CLOUDs)
 
 :::
 
@@ -270,7 +269,7 @@
 <!-- page XXX -->
 
 
-## Virtual Research Environment : kesaco ?
+## Virtual Research Environment
 
 **Example of the Galaxy Project**
 
@@ -280,42 +279,36 @@
 
 <!-- page XXX -->
 
-# Virtual Research Environment : process
+# Process
 
-## Virtual Research Environment : process
-
-**Choose the scale !**
+## Choose the scale
 
 ![](images/image-vre-choosethescale.jpg){width=100%}
 
 <!-- page XXX -->
 
-## Virtual Research Environment : process
+## Then compose
 
-**Then compose**
 
 ![](images/image-vre-thencompose2.jpg){width=90%}
 <!-- page XXX -->
 
-## Virtual Research Environment : process
-
-**issues**
+## Issues
 
 ![](images/image-vre-issues.jpg){width=100%}
 <!-- page XXX -->
 
-## Virtual Research Environment : process
+## Personal vision
 
-**Personal vision**
 
 ![](images/image-vre-personalvision.jpg){width=100%}
 <!-- page XXX -->
 
-# Virtual Research Environment : resources
+# Resources
 
 <!-- page XXX -->
 
-## Virtual Research Environment : resources
+## Resources
 
 :::: {.columns}
 
